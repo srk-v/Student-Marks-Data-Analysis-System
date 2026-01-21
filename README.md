@@ -1,7 +1,8 @@
 📊 Student Marks Data Analysis System (Python – No Libraries)
+
 📌 Project Overview
 
-This project is a menu-driven Student Marks Data Analysis System built using pure Python without any external libraries (no pandas, numpy, etc.).
+his project is a menu-driven Student Marks Data Analysis System built using pure Python without any external libraries (no pandas, numpy, etc.).
 It performs statistical analysis on student marks stored in a CSV file.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 🎯 Objectives
