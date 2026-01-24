@@ -41,8 +41,7 @@ Pass / Fail Analysis
 
 📁 Project Structure
 -
-Student-Marks-Data-Analysis/
-
+Student-Marks-Data-Analysis
 │
 ├── main.py
 ├── students.csv
@@ -127,4 +126,4 @@ Gained insight into real-world data analysis
 -
 Sriram Vemula
 BSc-Computer Science
-Python & Data Analytics Learner
+Data Analytics Learner
